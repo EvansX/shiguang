@@ -9,8 +9,8 @@
 	},
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
-	"appid": "touristappid",
-	"projectname": "my-shiguang",
+	"appid": "wxcb6f493592483e9f",
+	"projectname": "shiguang",
 	"condition": {
 		"search": {
 			"current": -1,
